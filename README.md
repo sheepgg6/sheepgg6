@@ -4,7 +4,7 @@
 
 ### 데이터가 정확하게 남고, 실패 이후에도 복구되는 서비스를 만듭니다.
 
-**Java Backend Developer · Data Pipeline**
+**Java Backend Developer · Data Batch**
 
 [이력서](https://app.notion.com/p/sheep-gg/826bf5e2e34247d392a34933cb8a0bdb)
 
@@ -75,11 +75,11 @@
 
 | 영역 | 프로젝트에서 사용한 기술 |
 | --- | --- |
-| Backend | **Java · Spring Boot · Spring Batch · Spring Security** |
-| Data Access | JPA · MyBatis · JDBC · Flyway |
-| Database & Search | MySQL · PostgreSQL · Redis · Qdrant |
-| Real-time & Test | WebSocket · STOMP · JUnit · Testcontainers |
-| Delivery & Collaboration | Git · GitLab/GitHub · Docker · Jenkins · Jira · Notion |
+| Backend | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) |
+| Data Access | ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-363636?style=for-the-badge) ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white) |
+| Database & Search | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge) |
+| Real-time & Test | ![WebSocket](https://img.shields.io/badge/WebSocket-4353FF?style=for-the-badge) ![STOMP](https://img.shields.io/badge/STOMP-4353FF?style=for-the-badge) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=testcontainers&logoColor=white) |
+| Delivery & Collaboration | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
 
 <br/>
 
@@ -93,15 +93,17 @@
 | 2024.06 ~ 2024.10 | 아키아카 기록물 DB 구축·검수 자동화 스크립트 개발 |
 | 2024.03 ~ 2024.04 | AWS Technical Essentials·3-Tier 아키텍처 실습 |
 | 2022.07 ~ 2022.08 | 수원출입국외국인청 행정 업무 지원·매크로 개발 및 유지보수 |
-| 2018.03 ~ 2024.02 | **아주대학교 디지털미디어·소프트웨어 복수전공** · 학점 **4.31 / 4.5** |
+| 2018.03 ~ 2024.02 | **아주대학교 디지털미디어학·소프트웨어 복수전공** · 학점 **4.31 / 4.5** |
 
 ### Certifications
 
 **빅데이터분석기사** `2026.07` · **SQLD** `2026.06` · **정보처리기사** `2024.06` · **컴퓨터활용능력 1급** `2020.02`
 
+**TOEIC Speaking · IH / 150점** `2023.11.18 응시`
+
 <br/>
 
-## 🧩 Algorithm
+## 🧩 etc
 
 <p align="center">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sheep_gg" alt="sheep_gg solved.ac 프로필 배너" />
