@@ -6,7 +6,7 @@
 
 **Java Backend Developer · Data Pipeline**
 
-[포트폴리오](https://app.notion.com/p/sheep-gg/826bf5e2e34247d392a34933cb8a0bdb) · [프로젝트](#-projects)
+[이력서](https://app.notion.com/p/sheep-gg/826bf5e2e34247d392a34933cb8a0bdb)
 
 </div>
 
@@ -93,7 +93,7 @@
 | 2024.06 ~ 2024.10 | 아키아카 기록물 DB 구축·검수 자동화 스크립트 개발 |
 | 2024.03 ~ 2024.04 | AWS Technical Essentials·3-Tier 아키텍처 실습 |
 | 2022.07 ~ 2022.08 | 수원출입국외국인청 행정 업무 지원·매크로 개발 및 유지보수 |
-| 2018.03 ~ 2024.02 | **아주대학교 디지털미디어학·소프트웨어 복수전공** · 학점 **4.31 / 4.5** |
+| 2018.03 ~ 2024.02 | **아주대학교 디지털미디어·소프트웨어 복수전공** · 학점 **4.31 / 4.5** |
 
 ### Certifications
 
