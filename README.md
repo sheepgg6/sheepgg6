@@ -4,7 +4,7 @@
 
 ### 데이터가 정확하게 남고, 실패 이후에도 복구되는 서비스를 만듭니다.
 
-**Java Backend Developer · Data Batch**
+**Java Backend Developer**
 
 [이력서](https://app.notion.com/p/sheep-gg/826bf5e2e34247d392a34933cb8a0bdb)
 
