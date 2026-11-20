@@ -24,6 +24,23 @@
 
 ## 🚀 Projects
 
+### ARA · Artist Reels Auction
+
+**작업 숏폼부터 실시간 경매, 블록체인 보증서 이전까지 잇는 미술품 경매 서비스**
+
+`2026.10 ~ 2026.11` · `6인 팀` · SSAFY 자율 프로젝트
+
+| 개인 담당 | 핵심 구현 |
+| --- | --- |
+| 작품·숏폼 도메인 (주 담당) | DB·API·이벤트 계약 설계, 출품부터 알림함까지 핵심 기능, 영상 변환 워커, 부하·장애 시험 |
+| 팀 개발 기반 | 코드 리뷰 템플릿·라벨, AI 도구(Claude Code·Codex) 공통 작업 규칙과 다른 도메인 파일 수정을 막는 훅 |
+| 서비스 전체 모니터링 | 장애·정합성 대시보드, 업무 지표 수집, Grafana 알림, 큐·DLQ 현황, 서비스 간 이벤트 흐름 지도 |
+| AI 서버 배포 | Jenkins CI/CD 파이프라인, 바뀐 경로만 골라 자동 배포 |
+
+Java 21 · Spring Boot 4 · PostgreSQL 18 · Flyway · Python · FFmpeg · AWS S3·SQS·SNS · Testcontainers · k6 · Prometheus · Grafana · Jenkins
+
+[서비스 화면과 문제 해결 살펴보기 →](https://github.com/sheepgg6/ara-portfolio)
+
 ### MOA · My Office Agent
 
 **오피스맵과 실시간 협업, 사내 업무 에이전트 MOAI를 연결한 플랫폼**
